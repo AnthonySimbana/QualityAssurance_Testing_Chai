@@ -1,6 +1,6 @@
 # Quality Assurance with Chai
 
-Part 1/3 of the Quality Assurance Certification from freeCodeCamp
+Part 1/2 of Course from Quality Assurance Certification FreeCodeCamp 
 
 This is a repository from freeCodeCamp about (Quality Assurance) QA using chai to test.
 
