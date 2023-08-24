@@ -2,7 +2,7 @@
 
 Part 1/2 of Course from Quality Assurance Certification FreeCodeCamp 
 
-This is a repository from freeCodeCamp about (Quality Assurance) QA using chai to test.
+This is a repository from freeCodeCamp about "Quality Assurance and Testing with Chai"
 
 Chai is a JavaScript testing library that helps you confirm that your program still behaves the way you expect it to after you make changes to your code.
 
